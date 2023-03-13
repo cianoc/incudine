@@ -1,5 +1,7 @@
-Template for the Read the Docs tutorial
+Incudine Tutorial
 =======================================
+
+This tutorial is for the Incudine Music and DSP environment.
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
